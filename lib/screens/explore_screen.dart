@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:fooderlich/components/friend_post_list_view.dart';
 import '../components/components.dart';
 import '../api/mock_fooderlich_service.dart';
 import '../models/explore_data.dart';
